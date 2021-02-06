@@ -1,0 +1,16 @@
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/firstAplicationCsharp
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/firstAplicationCsharp.deps.json
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/firstAplicationCsharp.runtimeconfig.json
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/firstAplicationCsharp.runtimeconfig.dev.json
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/firstAplicationCsharp.dll
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/ref/firstAplicationCsharp.dll
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/bin/Debug/net5.0/firstAplicationCsharp.pdb
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.csprojAssemblyReference.cache
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.AssemblyInfoInputs.cache
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.AssemblyInfo.cs
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.csproj.CoreCompileInputs.cache
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.dll
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/ref/firstAplicationCsharp.dll
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.pdb
+/home/phsousa/Documents/study/dotnet/initial/firstAplicationCsharp/obj/Debug/net5.0/firstAplicationCsharp.genruntimeconfig.cache
